@@ -1,8 +1,2 @@
-pandas
-pyarrow
 numpy
-scikit-learn
 matplotlib
-scipy
-requests
-beautifulsoup4
